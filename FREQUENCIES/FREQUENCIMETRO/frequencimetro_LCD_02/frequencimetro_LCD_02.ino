@@ -1,7 +1,8 @@
-
-// Desenvolvido por Alexandre Aravecchia
-// a.k.a. O Tio do Computador
-//http://tiodocomputador.tumblr.com/
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
 // Com o apoio de http://labdegaragem.com/
 //Publicado no Labdegaragem em 10/outubro/2016.
 

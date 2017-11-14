@@ -4,7 +4,7 @@
 /*
 Programa : Módulo RF Transmissor com Arduino Mega.
  Testado com modelo generico marca: Wayduino.
- Autor : TIO DO COMPUTADOR - tiodocomputador@gmail.com
+ Autor : aravecchia@gmail.com
  
  Ligar o Pino Data do transmissor ao pino 12 do Arduino Mega.
  Le um keypad de 16 botoes, acende o led correspondente e 

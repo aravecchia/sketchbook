@@ -1,3 +1,4 @@
+*/aravecchia
 #include <Arduino.h>
 
 // Codigo para gerar um contador de 4 bits, usando vetores.

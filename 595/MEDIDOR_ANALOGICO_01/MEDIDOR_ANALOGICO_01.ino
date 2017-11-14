@@ -1,4 +1,9 @@
 /*
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 Alexandre Aravecchia
 Ana Clara Aravecchia
 Rui Viana

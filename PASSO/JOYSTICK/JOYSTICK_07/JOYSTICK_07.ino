@@ -3,7 +3,11 @@
 /*
   Motor de Passo Mitsumi de 4 terminais + GND.
  Gira o motor em funcao da leitura de um potenciometro, sem usar biblioteca Stepper.
- Autor: http://cyberohm.com
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
  Apoio: http://www.labdegaragem.com
  */
 //Define a matriz

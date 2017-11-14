@@ -1,7 +1,10 @@
 #include <Arduino.h>
 
-// Laboratorio J011y R0g3r
-// ta na hora de pensar num nome serio pra esse Laboratorio :D
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 // Apoio: Laboratorio de Garagem - labdegaragem.com
 // Agradecimentos a valiosa ajuda dos amigos:
 // Almir, Jonatas, Jucelei, Rogerio, Marcelo, Renyer, fredsant, (o cara daquele site de mecatronica, esqueci os dois nomes) (esqueci alguem???)

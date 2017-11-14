@@ -2,7 +2,11 @@
 
 /*   Codigo de Expansao de Portas para Arduino, utilizando Shift Register 74HC-595.
  
- Desenvolvido por Alexandre (tiodocomputador@gmail.com)
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
  
  Apoio do Laboratorio de Gabagem (labdegaragem.com): Jonatas Freitas, Almir Bispo Filho,
  Daniel (Oraculo X), Daniel Jedi, Adriano Alcantara e Wiechert (o destruidor).

@@ -3,7 +3,7 @@
 /*
    Projeto OPEN CLP CyberOhm v. 2.0
    Alexandre Aravécchia, Rui Viana et Laboratório de Garagem (labdegaragem.com.br)
-   CyberOhm Robotics: cyberohm.com
+   aravecchia@gmail.com
    abril de 2016
 */
 // include the library code:

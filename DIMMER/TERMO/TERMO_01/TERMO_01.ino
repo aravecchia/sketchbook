@@ -4,7 +4,11 @@
   Este codigo faz a leitura de um sensor de corrente (optoacoplador)
   no pino 2, e por meio de um potenciometro em A0
   controla um Dimmer no pino 13.
-  Desenvolvido por https://cyberohm.com
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
   com apoio de www.labdegaragem.com.br
   Fique a vontade para baixar, usar e melhorar, mas nao esqueca de
   compartilhar!

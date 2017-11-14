@@ -4,9 +4,9 @@
   com ligacao por meio de fios
   _____________________________
   Desenvolvido por Alexandre Aravecchia
-  a.k.a. O Tio do Computador
+  aravecchia@gmail.com
   Projetista, desenvolvedor, programador
-  http://tiodocomputador.tumblr.com/
+  www.aravecchia.weebly.com
   Com o apoio de http://labdegaragem.com.br/, Rui Viana, Almir Bispo Filho
   E a santa paciência da minha esposa.
   Publicado no Labdegaragem em 10/outubro/2016.

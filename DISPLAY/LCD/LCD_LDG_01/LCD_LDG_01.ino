@@ -1,3 +1,9 @@
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
+
 #include <Arduino.h>
 
 #include <LiquidCrystal.h> //Inclui a biblioteca do LCD

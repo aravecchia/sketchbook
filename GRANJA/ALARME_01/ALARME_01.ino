@@ -1,7 +1,11 @@
 
 #include <Arduino.h>
 
-//CYBEROHM Robotics
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 // Apoio:
 //   Laboratorio de Garagem - www.labdegaragem.com
 //   Labirito - www.labirito.com

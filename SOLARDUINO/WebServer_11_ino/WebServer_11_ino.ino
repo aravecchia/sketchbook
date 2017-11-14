@@ -13,8 +13,8 @@
      by Tom Igoe 
      
      Modificado, adaptado e melhorado soberbamente em Julho de 2015 por
-     tiodocomputador <arroba> gmail <ponto> com
-     http://cyberohm.com
+     aravecchia <arroba> gmail <ponto> com
+     http://aravecchia.weebly.com
      com o generoso apoio do Laboratorio de Garagem:
      http://www.labdegaragem.com
      a paciencia herculea de seus frequentadores,

@@ -1,5 +1,9 @@
 #include <Arduino.h>
-
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
 
 int LATCH = 2; 
 int DATA = 3;

@@ -1,3 +1,8 @@
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
 #include <Arduino.h>
 
 // Programa que conta os "meio­ciclos" da onda senoidal fornecida

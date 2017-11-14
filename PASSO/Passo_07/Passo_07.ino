@@ -1,6 +1,7 @@
 #include <Arduino.h>
 
 /*
+aravecchia@gmail.com
   Motor de Passo Mitsumi 5 terminais.
  Acelera o motor progressivamente, desacelera ate parar,
  inverte a rotaco, acelera novamente, e assim vai.

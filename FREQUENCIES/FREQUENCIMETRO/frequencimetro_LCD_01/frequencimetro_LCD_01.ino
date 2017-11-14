@@ -1,3 +1,8 @@
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
 #include <Arduino.h>
 
 const int entrada = 2;

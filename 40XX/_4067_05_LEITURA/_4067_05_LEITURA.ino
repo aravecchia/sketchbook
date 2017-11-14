@@ -1,5 +1,9 @@
 #include <Arduino.h>
-
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 //Mux control pins
 int s0 = 5;
 int s1 = 6;

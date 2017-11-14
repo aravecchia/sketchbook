@@ -1,7 +1,9 @@
 #include <Arduino.h>
-
-// CyberOhm Robotics
-// https://cyberohm.com
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 // Apoio: Laboratorio de Garagem - https://www.labdegaragem.com
 // Agradecimentos a valiosa ajuda dos amigos:
 // Almir, Jonatas, Jucelei, Rogerio, Marcelo, Renyer, fredsant, Daniel (Oraculo X), Daniel (Pinguim Jedi), Pedro e Wiechert (O Destruidor).

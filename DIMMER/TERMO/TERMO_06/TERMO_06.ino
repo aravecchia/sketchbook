@@ -2,7 +2,11 @@
 
 /*
   CLP para máquina de termoformagem a vácuo.
-  Desenvolvido por https://cyberohm.com
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
   com apoio de www.labdegaragem.com.br
   Agradecimentos a Rui Viana, Wiechert, Celso Ito, Oraculo X, Guilherme Razgriz e Rafael Maciel.
   Fique a vontade para baixar, usar, melhorar e compartilhar!

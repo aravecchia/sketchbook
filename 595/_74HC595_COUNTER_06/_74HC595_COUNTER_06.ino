@@ -1,6 +1,11 @@
 #include <Arduino.h>
 
 /*
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 Este codigo recebe a iluminacao de um LDR e escreve um valor proporcional num display de 8 segmentos.
  */
 

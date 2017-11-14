@@ -3,8 +3,11 @@
 /*
    Projeto OPEN CLP CyberOhm v. 2.0
    Alexandre Aravécchia, Rui Viana et Laboratório de Garagem (labdegaragem.com.br)
-   CyberOhm Robotics: cyberohm.com
-   abril de 2016
+   CyberOhm Robotics: cyberohm.com/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/   abril de 2016
 */
 // include the library code:
 #include <LiquidCrystal.h>

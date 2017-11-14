@@ -1,5 +1,9 @@
 #include <Arduino.h>
-
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 //pinos do multiplexador de leitura
 int r0 = 8;
 int r1 = 7;

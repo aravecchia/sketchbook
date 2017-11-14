@@ -1,4 +1,9 @@
 #include <Arduino.h>
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
 
 int t=250;
 int y=255;

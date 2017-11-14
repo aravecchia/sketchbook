@@ -1,5 +1,9 @@
 #include <Arduino.h>
-
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 // Inclui as Libs necessarias.
 #include <LiquidCrystal.h>
 #include <Wire.h>

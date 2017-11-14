@@ -1,5 +1,9 @@
 #include <Arduino.h>
-
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
 /*
 O Fantastico, Incrivel e Ultra-Revolucionario
  ESCOVADOR DE BITS

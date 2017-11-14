@@ -1,6 +1,10 @@
 #include <Arduino.h>
 
-
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
 // Apoio: Laboratorio de Garagem - labdegaragem.com
 // Agradecimentos a valiosa ajuda dos amigos:
 // Almir, Jonatas, Jucelei, Rogerio, Marcelo, Renyer, fredsant, OraculoX, Wiechert, Rui Viana, Celso Eiji Ito

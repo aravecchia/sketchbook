@@ -1,5 +1,9 @@
 #include <Arduino.h>
-
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 #include <LiquidCrystal.h>
 #include <Wire.h>
 //LiquidCrystal lcd(8, 9, 4, 5, 6, 7);

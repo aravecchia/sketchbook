@@ -1,7 +1,11 @@
 #include <Arduino.h>
 
 // Código inicial: https://meetarduino.wordpress.com/
-// Desenvolvido por CYBEROHM.COM
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
 // Apoio: Labdegaragem, CriaLivre e Revista Espirito Livre
 
 #define ECHO_1 2

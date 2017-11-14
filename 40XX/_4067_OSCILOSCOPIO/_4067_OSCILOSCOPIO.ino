@@ -1,5 +1,9 @@
 #include <Arduino.h>
-
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 //pinos do multiplexador de escrita
 int w0 = 8;
 int w1 = 7;

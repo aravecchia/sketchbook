@@ -1,8 +1,7 @@
 #include <Arduino.h>
 
 //Programa : Comunicacao com Modulo RF 433 - Emissor
-//Autor : CyberOhm Robotics
-// tiodocomputador@gmail.com
+//Autor : aravecchia@gmail.com
 
 #include <VirtualWire.h>
 

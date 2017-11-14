@@ -1,3 +1,8 @@
+/*
+Desenvolvido por Alexandre Aravecchia
+aravecchia@gmail.com
+www.aravecchia.weebly.com
+*/
 #include <Arduino.h>
 
 /* Nao se esqueca de corrigir o codigo: do jeito que esta, o 595 vai mudar o estado de

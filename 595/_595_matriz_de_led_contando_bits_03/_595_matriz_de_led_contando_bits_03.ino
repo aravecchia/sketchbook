@@ -3,7 +3,11 @@
 //O primeiro controla o acionamento dos LEDs vermelhos nas colunas.
 //O segundo controla o acionamento dos LEDs verdes nas colunas.
 //O terceiro controla o acionamento das linhas.
-
+/*Desenvolvido por Alexandre Aravecchia
+  Projetista, desenvolvedor, programador
+ aravecchia@gmail.com
+ www.aravecchia.weebly.com
+ */
 #include "Arduino.h"
 
 // define os pinos de clock(11), latch(12) e data(14) do 74HC595

@@ -5,8 +5,10 @@
   com ligacao por meio de fios
   _____________________________
   Desenvolvido por Alexandre Aravecchia
-  a.k.a. O Tio do Computador
-    http://tiodocomputador.tumblr.com/
+  aravecchia@gmail.com
+  Projetista, desenvolvedor, programador
+  www.aravecchia.weebly.com/
+  Com o apoio de http://labdegaragem.com.br/
 
     Com a ajuda de:
   Rui Viana
