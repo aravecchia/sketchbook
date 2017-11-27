@@ -1,5 +1,4 @@
 int t = 100;
-
 void setup()
 {
   for (int x = 2; x < 10; x++)
@@ -7,7 +6,6 @@ void setup()
     pinMode(x, OUTPUT);
   }
 }
-
 void loop()
 {
   for (int x = 2; x < 10; x++)
